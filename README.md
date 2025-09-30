@@ -15,7 +15,7 @@
 | **NSG_KNNG** | Contains the the implementation of the NSG index, the PGTuner‑related codes and the data generated during runtime.               |
 | **Other files in the project root** | Some core functionalities: brute‑force nearest neighbors search, query performance collection, dataset features extraction, etc. |
 
-> **Note:** GTuner is mainly implemented for the **HNSW** index. For the **NSG** index, a small number of specific implementation files are provided, which typically contain `nsg` in their filenames.
+> **Note:** PGTuner is mainly implemented for the **HNSW** index. For the **NSG** index, a small number of specific implementation files are provided, which typically contain `nsg` in their filenames.
 ---
 
 ## Usage Instructions
