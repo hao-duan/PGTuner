@@ -1,0 +1,11 @@
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/CMakeFiles/edit_cache.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/CMakeFiles/rebuild_cache.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/src/CMakeFiles/efanna2e.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/src/CMakeFiles/efanna2e_s.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/src/CMakeFiles/edit_cache.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/src/CMakeFiles/rebuild_cache.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/tests/CMakeFiles/test_nndescent.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/tests/CMakeFiles/test_nndescent_refine.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/tests/CMakeFiles/test_kdtree_graph.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/tests/CMakeFiles/edit_cache.dir
+/data/PT4HV/NSG_KNNG/FFANNA_KNNG/build/tests/CMakeFiles/rebuild_cache.dir

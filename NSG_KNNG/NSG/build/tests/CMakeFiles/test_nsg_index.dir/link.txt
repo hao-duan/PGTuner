@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -fno-builtin-malloc -fno-builtin-calloc -fno-builtin-realloc -fno-builtin-free -O3 -DNDEBUG -rdynamic CMakeFiles/test_nsg_index.dir/test_nsg_index.cpp.o -o test_nsg_index  ../src/libefanna2e.a -ltcmalloc 

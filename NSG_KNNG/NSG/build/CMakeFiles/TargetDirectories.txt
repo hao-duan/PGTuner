@@ -1,0 +1,11 @@
+/data/PT4HV/NSG_KNNG/NSG/build/CMakeFiles/edit_cache.dir
+/data/PT4HV/NSG_KNNG/NSG/build/CMakeFiles/rebuild_cache.dir
+/data/PT4HV/NSG_KNNG/NSG/build/src/CMakeFiles/efanna2e.dir
+/data/PT4HV/NSG_KNNG/NSG/build/src/CMakeFiles/efanna2e_s.dir
+/data/PT4HV/NSG_KNNG/NSG/build/src/CMakeFiles/edit_cache.dir
+/data/PT4HV/NSG_KNNG/NSG/build/src/CMakeFiles/rebuild_cache.dir
+/data/PT4HV/NSG_KNNG/NSG/build/tests/CMakeFiles/test_nsg_index.dir
+/data/PT4HV/NSG_KNNG/NSG/build/tests/CMakeFiles/test_nsg_search.dir
+/data/PT4HV/NSG_KNNG/NSG/build/tests/CMakeFiles/test_nsg_optimized_search.dir
+/data/PT4HV/NSG_KNNG/NSG/build/tests/CMakeFiles/edit_cache.dir
+/data/PT4HV/NSG_KNNG/NSG/build/tests/CMakeFiles/rebuild_cache.dir

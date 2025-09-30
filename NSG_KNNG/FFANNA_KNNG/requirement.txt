@@ -1,0 +1,3 @@
+编译前执行以下命令：
+sudo apt install libboost-all-dev
+sudo apt install libgoogle-perftools-dev
