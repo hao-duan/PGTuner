@@ -30,8 +30,14 @@ pip install cupy-cuda11x
 pip install -r requirements.txt
 ```
 
-> **Note:** The reference environment uses **CUDA 11.6** and **PyTorch 1.13**. Please choose compatible versions of **cuml**, **cupy**, and **torch** for your setup.  
-> For installing cuml and cupy, you can refer to: <https://docs.rapids.ai/install/#prerequisites>, <https://pypi.org/search/?q=cupy&page=1>
+> **Note:** The reference environment uses **CUDA 11.6** and **PyTorch 1.13**. Please choose compatible versions of **cuML**, **CuPy**, and **PyTorch** for your setup.  
+To install **cuML** and **CuPy**:
+- **For CUDA 11.x**: use the commands shown above.  
+- **For CUDA 12.x**: you can use the command shown below.
+```bash
+pip install --extra-index-url https://pypi.nvidia.com cuml-cu12==25.8.*
+```
+> You can also refer to: <https://docs.rapids.ai/install/#prerequisites>, <https://pypi.org/search/?q=cupy&page=1>.
 
 ---
 
