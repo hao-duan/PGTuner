@@ -59,8 +59,8 @@ Then **Rename files** as follows:
 
 Where:
 - $\mathrm{size}$ is the number of base vectors;
-- $\mathrm{level} = \lfloor \log_{10}(\frac{\mathrm{size}}{100000}) \rfloor$；
-- $\mathrm{num} = \frac{\mathrm{size}}{100000 \cdot 10^{\mathrm{level}}}$；
+- $\mathrm{level} = \lfloor \log_{10}(\frac{\mathrm{size}}{100000}) \rfloor$;
+- $\mathrm{num} = \frac{\mathrm{size}}{100000 \cdot 10^{\mathrm{level}}}$;
 - dim is the vector dimension.
 
 **Example:** For dataset `tiny1M` with `1M` base vectors and dimension `384`:
