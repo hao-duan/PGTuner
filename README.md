@@ -58,10 +58,10 @@ Then **Rename files** as follows:
 - **Base vectors** and **Ground Truth**: `level_num_dim.fvecs` (or `.bvecs`) and `level_num_dim.ivecs` respectively.
 
 Where:
-- `size` is the number of base vectors;
-- $\mathrm{level} = \left\lfloor \log_{10}\left(\frac{\mathrm{size}}{100000}\right) \right\rfloor$；
+- $\mathrm{size}$ is the number of base vectors;
+- $\mathrm{level} = \lfloor \log_{10}(\frac{\mathrm{size}}{100000}) \rfloor$；
 - $\mathrm{num} = \frac{\mathrm{size}}{100000 \cdot 10^{\mathrm{level}}}$；
-- `dim` is the vector dimension.
+- dim is the vector dimension.
 
 **Example:** For dataset `tiny1M` with `1M` base vectors and dimension `384`:
 - Base vectors file: `1_1_384.fvecs`
