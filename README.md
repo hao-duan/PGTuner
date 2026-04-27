@@ -146,8 +146,8 @@ See `query_performance_predict/Args.py` for `experiment-mode` options.
 
 ```bash
 python active_learning_successive.py --dataset-name dataset_name1 --experiment-mode dataset_change
-python active_learning_successive.py --dataset-name dataset_name2 --lats-dataset-name dataset_name1 --experiment-mode dataset_change
-python active_learning_successive.py --dataset-name dataset_name3 --lats-dataset-name dataset_name2 --experiment-mode dataset_change
+python active_learning_successive.py --dataset-name dataset_name2 --last-dataset-name dataset_name1 --experiment-mode dataset_change
+python active_learning_successive.py --dataset-name dataset_name3 --last-dataset-name dataset_name2 --experiment-mode dataset_change
 # ...
 ```
 
