@@ -8,8 +8,8 @@
 | Folder/File | Description                                                                                                                      |
 |---|----------------------------------------------------------------------------------------------------------------------------------|
 | **Data** | Stores the original vector datasets, the collected query performance data, and the data generated during runtime.                |
-| **parameter_configuration_recommend** | Contains the implementation of of the PCR model and the data generated during runtime.                                           |
-| **query_performance_predict** | Contains the implementation of of the QPP model and model transfer, and the data generated during runtime.                       |
+| **parameter_configuration_recommend** | Contains the implementation of he PCR model and the data generated during runtime.                                           |
+| **query_performance_predict** | Contains the implementation of the QPP model and model transfer, and the data generated during runtime.                       |
 | **utils** | Contains the baisc utility codes, such as data reading/writing and data sampling.                                                |
 | **hnswlib** | The library of the HNSW index .                                                                                                  |
 | **NSG_KNNG** | Contains the the implementation of the NSG index, the PGTuner‑related codes and the data generated during runtime.               |
